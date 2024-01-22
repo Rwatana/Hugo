@@ -6,6 +6,6 @@ hasCJKLanguage = true
 [params]
   text_color = 'dark-gray'
   background_color_class = 'bg-navy'
-  author = 'つかもと'
-  favicon = 'data/icon.png'
-  site_logo = 'data/icon.png'
+  author = 'Rwatana'
+  favicon = '/data/icon.png'
+  site_logo = '/data/icon.png'
