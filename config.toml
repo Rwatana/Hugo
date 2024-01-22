@@ -7,8 +7,8 @@ hasCJKLanguage = true
   text_color = 'dark-gray'
   background_color_class = 'bg-navy'
   author = 'Rwatana'
-  favicon = '/static/images/screenshot.png'
-  site_logo = '/static/images/icon.png'
+  favicon = '/Hugo-repo/static/images/screenshot.png'  # 絶対パスに変更
+  site_logo = '/Hugo-repo/static/images/icon.png'
 
 [[params.ananke_socials]]
   name = 'github'
