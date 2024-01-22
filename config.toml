@@ -9,3 +9,7 @@ hasCJKLanguage = true
   author = 'Rwatana'
   favicon = '/images/screenshot.png'
   site_logo = '/images/icon.png'
+
+[[params.ananke_socials]]
+  name = 'github'
+  url  = 'https://github.com/Rwatana'
