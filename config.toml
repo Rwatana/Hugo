@@ -1,4 +1,4 @@
 baseURL = 'http://Rwatana.github.io/Hugo-repo'
 languageCode = 'ja'
 title = 'My New HUgo Site'
-theme = "anake"
+theme = "ananke"
