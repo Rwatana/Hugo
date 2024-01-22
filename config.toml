@@ -14,6 +14,26 @@ hasCJKLanguage = true
   author = 'Rwatana'
   favicon = '/Hugo-repo/static/images/screenshot.png'  # 絶対パスに変更
   site_logo = '/Hugo-repo/static/images/icon.png'
+  description = "kondoumh home page. write about software I made."
+  images = ["/images/mh.png"]
+  facebook = ""
+  twitter = "https://twitter.com/kondoumh"
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/kondoumh"
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  hatenablog = "https://blog.kondoumh.com"
+  tumblr = "https://reblog.kondoumh.com"
+  scrapbox = "https://scrapbox.io/kondoumh"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/1500x500.jpeg"
+  recent_posts_number = 0
+  custom_css = ["css/custom.css"]
+
+
 
 [[params.ananke_socials]]
   name = 'github'
