@@ -2,3 +2,12 @@ baseURL = 'http://Rwatana.github.io/Hugo-repo'
 languageCode = 'ja'
 title = 'Self Introduction'
 theme = "ananke"
+hasCJKLanguage = true
+title = 'つかもとのゆるブログ'
+theme = 'ananke'
+[params]
+  text_color = 'dark-gray'
+  background_color_class = 'bg-navy'
+  author = 'つかもと'
+  favicon = 'data/screenshot.png'
+  site_logo = 'data/screenshot.png'
