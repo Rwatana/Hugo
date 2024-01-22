@@ -3,8 +3,6 @@ languageCode = 'ja'
 title = 'Self Introduction'
 theme = "ananke"
 hasCJKLanguage = true
-title = 'つかもとのゆるブログ'
-theme = 'ananke'
 [params]
   text_color = 'dark-gray'
   background_color_class = 'bg-navy'
